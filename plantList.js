@@ -1,8 +1,6 @@
 
-import igloves from '../assets/IglovesBoite.jpg'
-import asap from '../assets/boite nivinyl.jpg'
-import mumu from '../assets/mumu boite.jpg'
-export const plantList = [
+
+plantList = [
 	{
 		marque: 'iGloves',
 		name:'Gants en Nitrile',
