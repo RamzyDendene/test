@@ -1,6 +1,6 @@
 
 
-plantList = [
+[
 	{
 		marque: 'iGloves',
 		name:'Gants en Nitrile',
